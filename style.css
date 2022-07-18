@@ -36,7 +36,7 @@ html, body {
     font-size: 14px;
     height: 100%;
     width: 100%;
-    overflow: hidden; 
+    /* overflow: hidden;  */
 }
 
 input {
@@ -75,7 +75,7 @@ input {
     }
 
 .hero-banner .hero-image {
-    background-image: url(https://assets.codepen.io/6060109/athlete-girl.png);
+    background-image: url(dress.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
